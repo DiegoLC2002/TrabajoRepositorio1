@@ -3,6 +3,4 @@ with(other)
 	instance_destroy();
 }
 
-//Hola Carlos
-//hola dario weon
-// hola  gay 
+//Prueba de compartir por GitHub
