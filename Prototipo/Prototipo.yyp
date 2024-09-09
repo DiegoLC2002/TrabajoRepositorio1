@@ -10,8 +10,8 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"Conjuntos de casillas","folderPath":"folders/Curvas de animación/Conjuntos de casillas.yy","name":"Conjuntos de casillas","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Curvas de animación","folderPath":"folders/Curvas de animación.yy","name":"Curvas de animación","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Conjuntos de casillas","folderPath":"folders/Curvas de animación/Conjuntos de casillas.yy","name":"Conjuntos de casillas","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensiones","folderPath":"folders/Extensiones.yy","name":"Extensiones","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fuentes","folderPath":"folders/Fuentes.yy","name":"Fuentes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Líneas temporales","folderPath":"folders/Líneas temporales.yy","name":"Líneas temporales","resourceType":"GMFolder","resourceVersion":"2.0",},
