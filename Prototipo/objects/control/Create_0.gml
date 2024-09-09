@@ -1,0 +1,1 @@
+global.Puntos = 0;
